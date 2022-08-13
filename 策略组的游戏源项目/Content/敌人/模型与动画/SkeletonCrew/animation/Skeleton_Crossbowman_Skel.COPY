@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Skeleton_Crossbowman_Skel"
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_0"
+   End Object
+   Begin Object Name="SkeletalMeshSocket_0"
+      SocketName="hand_rSocket"
+      BoneName="hand_r"
+      RelativeLocation=(X=-35.877846,Y=17.973402,Z=32.297688)
+      RelativeRotation=(Pitch=1.990788,Yaw=62.076252,Roll=-20.371223)
+   End Object
+   BoneTree(54)=()
+   VirtualBoneGuid=2740D44743E4ACA6736E9A9A8C7C9F16
+   Sockets(0)=SkeletalMeshSocket'"SkeletalMeshSocket_0"'
+End Object
